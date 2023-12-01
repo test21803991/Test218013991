@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Test01.h"
 
 FOUNDATION_EXPORT double Test21803991VersionNumber;
 FOUNDATION_EXPORT const unsigned char Test21803991VersionString[];

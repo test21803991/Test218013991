@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'Test21803991/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'Test21803991' => ['Test21803991/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'Test21803991' => ['Test21803991/*.framework']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
